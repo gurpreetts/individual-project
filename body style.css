@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  margin: 20px;
+}
+
+nav a {
+  margin: 10px;
+  text-decoration: none;
+  color: blue;
+}
+
+h1, h2 {
+  color: darkblue;
+}
